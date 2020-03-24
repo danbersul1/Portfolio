@@ -2,6 +2,7 @@ body {
     overflow-x: hidden;
     font-family: sans-serif;
     color: #505962;
+    background-color: rgba(41, 39, 39, 0.315)
 
 }
 
@@ -76,8 +77,15 @@ img.portfolio {
     margin: 1.5rem 0;
 }
 
+.jumbotron {
+    background-color: rgba(41, 39, 39, 0.315);
+    color: white;
+}
 
-/*--- iOS Landing Page Fix --*/
+#portfolio {
+    
+}
+
 .landing {
     position: relative;
     width: 100%;
